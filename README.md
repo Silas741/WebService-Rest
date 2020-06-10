@@ -1,2 +1,2 @@
 # WebService-Rest
-Web Service Rest, utilizando ASP.Net web api, junto ao  Windows Azure
+Web Service Rest, utilizando ASP.Net web api,em conjunto ao Windows Azure
