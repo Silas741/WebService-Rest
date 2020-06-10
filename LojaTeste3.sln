@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaTeste3", "LojaTeste3\LojaTeste3.csproj", "{55FB3625-DFCA-4035-876D-5681C524266A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaApi", "LojaTeste3\LojaApi.csproj", "{55FB3625-DFCA-4035-876D-5681C524266A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM", "..\CRM\CRM\CRM.csproj", "{CEA0AD13-D025-4FDB-9513-22915154574A}"
 EndProject
